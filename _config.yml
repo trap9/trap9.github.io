@@ -1,5 +1,9 @@
 # Dependencies
 markdown:         kramdown
+
+kramdown:
+ input: GFM
+
 highlighter:      pygments
 
 # Permalinks

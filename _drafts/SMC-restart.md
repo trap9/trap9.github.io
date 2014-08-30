@@ -22,7 +22,7 @@ For full procedure to troubleshoot issues described here refer to Apple site[^2]
 ## The story
 Over the time and many spent hours and hours ... and ... yeah ... hours. I nailed down following most repeatedly anoying issues:
 
-1. fan noise - under unknwon conditions, fan speed and noise went up to VERY unacceptable levels and there was no way to get it back ... even when Activity Monitor showed essentially NO cpu load and temperature and ventilation where ok.
+1. fan noise - under unknwon conditions, fan speed and noise went up to VERY unacceptable levels and there was no way to get it back even when Activity Monitor showed essentially NO cpu load and temperature and ventilation where ok.
 2. slow wake up - since install of OS X Lion wake up was progressively longer and longer. I did many tests what is a root cause. For example despite I have learned that leaving Safari open with multiple tabs, especially if there is a dynamic content in flash badly affects wake up time or I cleared out login items and utils hooked on start up/wake up. None of these let me to an ultimate fix.
 3. battery started to be vicious - I was experiencing sudden charge drops and overall battery life was decreasing.
 
@@ -40,7 +40,7 @@ Finally I have checked my battery with CoconutBattery util - and learned that ba
 I connected the dots. Most likely because of my long term issues with mba EFI firmware, mitigated by SMC restart time to time, fan noise issues leaded to enormous energy consumption and it affected badly the battery lifetime.
 
 ### Slow wake up
-I still remember my very first experience with Apple notebook. It was first model MBA with OS X Snow Leopard. The experience was amazing I came to notebook opened the lid and .... there was it ... yes nothing more .... system wake was ready in a blink of an eye .... as a Windows man tired down by Vista start up coffee breaks  .... I decided to switch completely to Apple ... everything ... notebook, phone, Apple TV, routers ... and it was decided really in that very first moment ... moment that one could easily miss - Snow Leopard wake.
+I still remember my very first experience with Apple notebook. It was first model MBA with OS X Snow Leopard. The experience was amazing I came to notebook opened the lid and there was it! Yes nothing more nothing less system wake was ready in a blink of an eye! As a Windows man tired down by Vista start up coffee breaks I was stunned. I decided to switch completely to Apple - everything - notebook, phone, Apple TV, routers and it was decided really in that very first moment. The moment that one could easily miss - Snow Leopard wake.
 
 You could understand that despite all Lions and successors bringing nice features the sacred one, wake up, was not such satisfying. But it was still FAST.
 

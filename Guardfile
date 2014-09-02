@@ -1,8 +1,8 @@
 # A sample Guardfile
 # More info at https://github.com/guard/guard#readme
 
-guard 'jekyll-plus', :serve => true do
-  watch /.*/
+guard 'jekyll-plus', serve:true, drafts:true do
+watch /.*/
   ignore /^_site/
 end
 

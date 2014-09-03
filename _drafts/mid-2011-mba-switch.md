@@ -29,6 +29,7 @@ I do:
 I feel no issue with performance doing tasks above regarding speed and responsiveness. Although disk size got small for me, but I work around this by external usb flash drive.
 
 So, what are my ankles of pain?
+
 * display resolution - with all retina around I feel stranded I wanna be retina also.
 * disk size - but this alone is not gonna justify upgrade.
 * obsolete Intel HD 3000 graphics chip is not supported by games I would like to play - but gaming is not my use case to upgrade consideration - it would be nice benefit but is not upgrade driver.
@@ -43,11 +44,14 @@ So I am left with only one solid upgrade driver or with some break through impro
 * time on battery (perhaps 2 days and more?)
 * weight below 1kg
 
-### Why 12" retina is not gonna make mi to switch?
+### Why 12" retina is not gonna make me to switch?
 Well, 13" display is already on the bottom edge to work simultaneously on two windows displayed. I already make compromises all around to place two windows on the 13" screen. It is not matter of resolution only. It is also matter of physical size of letters that I type and read. I simply does not want to read and type smaller letters then now.
 I am not gonna sacrifice my over the years mastered work flow or ability of fast and comfort reading to smaller size screen.
 12" retina display can attract only those users that do not need two windows displayed and heavily prefer mobility (small size and weight to a very edge).
 
+### Why Macbook Pro 15" and 13" are not gonna make me switch?
+Macbook Pro is not mobile enough I am not gonna carry such big, heavy and expensive beast (despite I admire it is designed top notch).
+Macbook Pro 13" has gone light and very mobile. It would be an option but the price tag is considerably higher comparing to mba and only the OS X itself is reason to buy Macbook Pro HW instead of PC competition. I am not likely to pay such extra margin to Apple.
 
 What is gonna me make switch?
 

@@ -2,7 +2,7 @@
 # More info at https://github.com/guard/guard#readme
 
 guard 'jekyll-plus', serve:true, drafts:true do
-watch /.*/
+  watch /.*/
   ignore /^_site/
 end
 

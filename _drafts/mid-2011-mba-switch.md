@@ -11,18 +11,18 @@ twitteraka: jzoaka
 ---
 
 January 2012 my second mba arrived and I was happy from the beginning. It was elegant, powerful and sexy piece of metal. I stick to this 4GB RAM - 250 GB SSD beast up to now. But every autumn since I am becoming restless - I would like to get new better mba.
-But I need solid 'business case' to convince my rational myself prior I will buy one. Have I been given by enough reasons from Apple up to now? Nope.
+But I need solid 'business case' to convince my rational myself prior I will buy one. Have I been given enough reasons from Apple up to now? Nope.
 
 ### So, should I switch my mid 2011 for a new model?
 
-Well, I admit this very subjective question. So, what are priorities? What I use mba for?
+Well, I admit this is very subjective question. So, what are priorities? What I use mba for?
 
 I do:
 
 * occasional programming in xcode/Objective-C or in MacVim/browser/ruby stack
 * maintaining of iPhoto Library of 20k+ pictures and short videos
 * basic video editing
-* listening music from my iTunes library of 1000 plus tracks
+* listening music from my iTunes library of 1000+ tracks
 * light work inside virtual mac machine
 * ordinary pc use cases (Mail, web, typing, docs)
 
@@ -42,7 +42,7 @@ So I am left with only one solid upgrade driver or with some break through impro
 
 * retina display
 * time on battery (perhaps 2 days and more?)
-* weight below 1kg
+* weight below 2.2 pounds / 1 kg
 
 ### Why 12" retina is not gonna make me to switch?
 Well, 13" display is already on the bottom edge to work simultaneously on two windows displayed. I already make compromises all around to place two windows on the 13" screen. It is not matter of resolution only. It is also matter of physical size of letters that I type and read. I simply does not want to read and type smaller letters then now.
@@ -51,9 +51,9 @@ I am not gonna sacrifice my over the years mastered work flow or ability of fast
 
 ### Why Macbook Pro 15" and 13" are not gonna make me switch?
 Macbook Pro is not mobile enough I am not gonna carry such big, heavy and expensive beast (despite I admire it is designed top notch).
-Macbook Pro 13" has gone light and very mobile. It would be an option but the price tag is considerably higher comparing to mba and only the OS X itself is reason to buy Macbook Pro HW instead of PC competition. I am not likely to pay such extra margin to Apple.
+Macbook Pro 13" has gone light and very mobile. It would be an option but the price tag is considerably higher comparing to mba. Comparing Macbook Pro design and HW specs to PC competition one can buy nice design pc notebook with similar specs for considerably lower price that makes almost only the OS X itself a reason to buy Macbook Pro HW instead of PC competition. I am not likely to pay such extra margin to Apple.
 
-What is gonna me make switch?
+What is gonna make me switch?
 
 <div class="message">
 <ul>

@@ -6,6 +6,8 @@ kramdown:
 
 highlighter:      pygments
 
+excerpt_separator: "\n\n"
+
 # Permalinks
 permalink:        pretty
 

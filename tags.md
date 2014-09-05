@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tag Index
+title: Tag index
 description: "An archive of posts sorted by tag."
 ---
 

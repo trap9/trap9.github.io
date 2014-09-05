@@ -12,6 +12,7 @@ twitteraka: jzoaka
 
 There was a pretty nasty thing about my MBA[^1]. Last two years I have started experiencing various issues that were progressively decreasing my satisfaction with the Apple product. And believe me I was not happy 'cause as any other Apple fan I want feel special :-)
 
+
 Shortcut:
 
 ```

@@ -1,2 +1,9 @@
-User-agent: googlebot
-Allow: *
+User-agent: Googlebot
+Disallow: /nogooglebot/
+Allow: /
+
+User-agent: *
+Disallow: /onlygooglebot/
+Allow: /
+
+Sitemap: http://www.example.com/sitemap.xml

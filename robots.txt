@@ -1,9 +1,2 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-Allow: /
-
 User-agent: *
-Disallow: /onlygooglebot/
-Allow: /
-
-Sitemap: http://trap9.io/sitemap.xml
+Disallow:  /admin/

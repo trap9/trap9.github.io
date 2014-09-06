@@ -6,4 +6,4 @@ User-agent: *
 Disallow: /onlygooglebot/
 Allow: /
 
-Sitemap: http://www.example.com/sitemap.xml
+Sitemap: http://trap9.io/sitemap.xml

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://trap9.io/sitemap.xml

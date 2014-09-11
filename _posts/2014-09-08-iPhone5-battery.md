@@ -10,7 +10,7 @@ twitter: true
 twitteraka: jzoaka
 ---
 
-It will be four years since I have started with the Apple iphones and Macbook Airs. There are positive as well as negative experiences. Despite I experiencing daily satisfaction with the Apple products that I have, looking back, I have realized that I had a lot of bad experiences too. More then I want to bear. Hence I drafted my own buying recommendation:
+It will be four years since I have started with the Apple iphones and Macbook Airs. There are positive as well as negative experiences. Despite I am experiencing daily satisfaction with the Apple products that I have, looking back, I have realized that I had a lot of bad experiences too. More then I want to bear. Hence I drafted my own buying recommendation:
 ```
 Before you buy a NEW Apple PRODUCT you should WAIT SIX MONTHS after the product introduction to market. Then do a research on general user experience and rumors in discussion forums and then decide.
 This should minimize risk of getting into a product affected by issues caused by premature production process or insufficient testing.

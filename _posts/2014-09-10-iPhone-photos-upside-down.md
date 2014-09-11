@@ -22,12 +22,12 @@ October 2012 Apple released iOS 5 which has introduced feature to take photos by
 Ughhh ... may be it is not!!!
 
 ### The traditional, user friendly orientation of a camera - not according to Apple
-![traditional way of taking photos - trigger button up](/assets/2014/camera-up.jpg)
+![traditional way of taking photos - trigger button up](/assets/2014/camera-up.JPG)
 
 Notice the trigger button is up :-) picture is upside-down :-((
 
 ### Hold on - Apple way of taking landscape pictures :-(
-![Apple way of taking photos - trigger button down](/assets/2014/camera-down.jpg)
+![Apple way of taking photos - trigger button down](/assets/2014/camera-down.JPG)
 
 Notice the trigger button is down :-( - pictures will be upside up.
 

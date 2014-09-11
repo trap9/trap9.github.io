@@ -13,7 +13,7 @@ twitteraka: jzoaka
 In this article I am elaborating on one unpleasant mystery I resolved recently.
 Last years, I was repeatedly receiving complaints from my wife and other family members that I keep sending them pictures upside down and they find difficult and annoying to fix photos rotation. The situation became critical last week when I was shooting my daughter first day ever in a school. I received ONLY COMPLAINTS from my family that all my photos are upside down. So, I finally stop ignoring the fact and googled the internet for an answer.
 The answer is that I AM NOT FOLLOWING APPLE WAY OF TAKING photos in landscape :-(
-![Apple way of taking photos - trigger button down](/assets/2014/camera-down.jpg)
+![Apple way of taking photos - trigger button down](/assets/2014/camera-down.JPG)
 :-)) Is the camera in a correct position on the picture?
 
 ### Who is trouble maker?

@@ -11,12 +11,12 @@ twitteraka: jzoaka
 ---
 
 In this article I am elaborating on one unpleasant mystery I resolved recently.
-Last years, I was repeatedly receiving complaints from my wife and other family members that I keep sending them pictures upside down and they find difficult and annoying to fix photos rotation. The situation became critical last week when I was shooting my daughter first day ever in a school. I received ONLY COMPLAINTS from my family that all my photos are upside down. So, I finally stop ignoring the fact and googled the internet for an answer.
+Last years, I was repeatedly receiving complaints from my wife and other family members that I keep sending them pictures upside down and they find difficult and annoying to fix photos rotation. The situation became critical last week when I was shooting my daughter first day ever in a school. I received ONLY COMPLAINTS from my family that all my photos are upside down. So, I finally stopped ignoring the fact and googled the internet for an answer.
 The answer is that I AM NOT FOLLOWING APPLE WAY OF TAKING photos in landscape :-(
 ![Apple way of taking photos - trigger button down](/assets/2014/camera-down.JPG)
 :-)) Is the camera in a correct position on the picture?
 
-### Who is trouble maker?
+### Who is a trouble maker?
 October 2012 Apple released iOS 5 which has introduced feature to take photos by pressing volume up button[^1][^2]. Which is a great feature for a small cost. I started using the volume up as a trigger immediately. It is so compatible with traditional cameras!
 
 Ughhh ... may be it is not!!!

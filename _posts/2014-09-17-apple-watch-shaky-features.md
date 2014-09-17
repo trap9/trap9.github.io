@@ -21,7 +21,7 @@ Despite it's name, Apple Watch IS DISPLAY and INTERACTION EXTENSION TO your iPho
 ### What to be aware of Apple Watch?
 
 * **iPhone dependency** - Most functions will have likely limitations without online connection to your iPhone.
-* **Siri** - does anybody knows a non-native speaker using Siri?Please, give me a contact to comments below the article.are you a non native speaker? No iPhone or offline? No Siri.
+* **Siri** - does anybody knows a non-native speaker using Siri?Please, give me a contact to comments below the article. Are you a non native speaker? No iPhone or offline? No Siri.
 * **Apple Pay** - the idea of paying just using my wrist is superb. Be AWARE that the feature is US only currently and it is question when and how it will function in Europe.
 * **Passbook** - is anybody using this outside US?
 * **Heart rate monitoring** - Apple will have to deliver a technical break through in monitoring heart beat using optical sensors. Optical measurement devices suffer inaccuracy that prohibits using them in serious sports or medical utilities.
@@ -67,17 +67,17 @@ Personally, Apple Watch design reminds me a design of 'calculator watches' desig
 
 My conclusion is that Apple Watch design is going against 'everything' popular in watch market for at least last two decades.
 
-Yet another articles about popular watch designs here[^7] and here[^8].
+Yet another articles about popular watch designs here[^7] and here[^8][^9].
 
 *I am looking forward how people will adopt Apple Watch design. I am VERY curious.*
 
 ____
 
 [^1]: http://www.apple.com/watch/
-[^2]: http://en.wikipedia.org/wiki/Henry_Ford
 [^3]: http://www.ebay.com/sch/Wristwatches-/31387/i.html?LH_Complete=1&LH_Sold=1&LH_ItemCondition=1000%7C1500&_mPrRngCbx=1&_udlo=4000&_udhi=12000&_dcat=31387&rt=nc&_pppn=r1
 [^4]: http://www.amazon.com/Best-Sellers-Watches-Mens-Wrist/zgbs/watches/6358540011
 [^5]: http://timepiecesgalore.com/
 [^6]: http://www.amazon.com/Casio-Mens-CA53W-Calculator-Watch/dp/B000GB1R7S/ref=zg_bs_6358540011_3
 [^7]: http://www.details.com/ultimate-guides/best-watches-for-men
 [^8]: http://www.watchismo.com/best-watches.aspx
+[^9]: http://www.hodinkee.com/blog/hodinkee-apple-watch-review

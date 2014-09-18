@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Apple pushes 4" display to a niche"
-description: "Apple abandons people who prefer 4" display."
+title: "Apple pushes 4\" display to a niche."
+description: "Apple abandons people who prefer 4\" display."
 category: articles
-tags: [iphone, iphone6, apple]
+tags: [iphone, apple, iphone6]
 author: "Jiri Zoth"
 comments: true
 twitter: true
@@ -23,5 +23,6 @@ I am speaking about awful taste that remains left in a man after Apple decides t
 
 I have simple needs - I just do not need bigger display - I need mobility - not a paddle to carry in my pocket.
 
-### Is there anybody else, out there, who wants 4" display?
+### Is there anybody else, out there, who wants 4" display? Write a comment pls :-)
+
 

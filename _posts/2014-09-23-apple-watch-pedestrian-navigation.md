@@ -30,7 +30,7 @@ Well, it is not certainly with hiking or walking along the trail. Why? Well, che
 Well, you are a tourist abroad and you need to navigate
 to a point of interest? Well, navigation will need online connection while moving. Are you ready to pay a gigantic roaming charges to your mobile operator? May be not?
 
-Well, you are a visitor in a city you are not familiar with. Are you looking for a point of interest you know by name and not an address? Well, here it comes tricky you may find out that Point of interest database has a far way to google standard. So, with a luck yes it will fit but it will often fail.
+Well, you are a visitor in a city you are not familiar with. Are you looking for a point of interest you know by name and not an address? Well, here it comes tricky part because you may find out that Point of interest database has a far way to google standard. So, with a luck yes it will fit but it will often fail.
 
 ### And the winner is ...
 
@@ -38,9 +38,17 @@ Well, you are a visitor in a city you are not familiar with. Are you looking for
 * you know the address where to get to
 * you have your iPhone connected and online to the internet
 
-Yep, that is a best fit for Apple Watch on your wrist with Apple Maps in it.
+Yep, that is a best fit for Apple Watch navigation on your wrist with Apple Maps in it.
 
-The question is why do not use iPhone instead? Well, it just got too big :-)
+The question is why do not use iPhone directly instead? Well, it just got too big :-)
+
+### A comment on Siri ...
+
+> Turn-by-turn. Getting to your destination is much easier with Apple Watch. Just ask Siri for directions and Maps will guide the way. --Apple--
+
+Apple is not certainly talking to us - non native speakers, right? Any experience giving Siri an instruction on a busy street?
+
+Siri and Navigation, they look great on Apple's key note stage. Will they prove them self outside Cupertino offices? Time will show.
 
 ------
 [^1]: http://www.apple.com/watch/technology/

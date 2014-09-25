@@ -3,7 +3,7 @@ layout: post
 title: "How to save a screenshot to a file?"
 description: "Yet. Another post about efficiency tip."
 category: articles
-tags: [iphone, apple, watch, Apple Watch, navigation]
+tags: [OS X, apple, screen shot, trouble shooting]
 author: "Jiri Zoth"
 comments: true
 twitter: true

@@ -2,9 +2,17 @@
 layout: default
 ---
 
+<!-- Look the author details up from the site config. -->
+{% assign author = site.data.authors[page.author] %}
+
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }} {{page.author}}
+  <span class="post-date">{{ page.date | date_to_string }}
+
+<!-- Output author details if some exist. -->
+{% if author %}
+<a href="/bios#{{ page.author }}">{{ author.name }}</a>
+{% endif %}
     {% for tag in page.tags %}<a href="/tags/index.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</span>
   {{ content }}
 </div>

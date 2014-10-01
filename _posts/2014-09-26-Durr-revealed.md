@@ -4,10 +4,9 @@ title: "DURR Beta - a shivering bracelet revealed"
 description: "A review of DURR bracelet / watch"
 category: articles
 tags: [Durr, shivering bracelet]
-author: "Jiri Zoth"
+author: jiri_zoth
 comments: true
 twitter: true
-twitteraka: jzoaka
 ---
 
 This article is all about one man's journey into his perception of time and about the companion that mediates the unique experience - DURR. DURR is made by Norway's designer team called skreksto. It is a bracelet hat vibrates every fifth minute. !Note the word *bracelet* because thinking about Durr as a *watch* will lead you to expectations that will not be met. I will touch 'watch' misconception later in this article.

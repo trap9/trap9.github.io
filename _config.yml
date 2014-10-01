@@ -13,8 +13,8 @@ permalink:        pretty
 
 # Setup
 title:            trap9.io
-tagline:          'signals uninterupted'
-description:      'The blog about cosmic radiation effects.'
+tagline:          'signals uninterrupted'
+description:      "A diary of one man\'s journey into signal perception and interpretation."
 url:              http://trap9.io
 baseurl:          '/'
 paginate:         5

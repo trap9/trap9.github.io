@@ -4,10 +4,7 @@ title: "Are some Apple Watch features shaky?"
 description: "Apple presentation skills are mastered to sky-high limits but closer look reveals serious doubts about some features."
 category: articles
 tags: [iphone, apple, watch, Apple Watch]
-author: "Jiri Zoth"
-comments: true
-twitter: true
-twitteraka: jzoaka
+author: jiri_zoth
 ---
 What is Apple Watch? It is not an easy answer as it might look.
 Despite it's name, Apple Watch IS DISPLAY and INTERACTION EXTENSION TO your iPhone placed on your wrist, which accidentally happened to get a 'watch' in its name. Oh, by the way, it shows also time. If you are not OK with pulling your iPhone 6 from a pocket and you are ok with buying every two years a new Apple Watch model, to not get outdated, then you can consider Apple Watch for purchase. I just would like to remind you about some important weak spots of several features that Apple Watch is promising to deliver.

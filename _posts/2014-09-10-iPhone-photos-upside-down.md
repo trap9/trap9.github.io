@@ -4,10 +4,7 @@ title: "iPhone takes pictures upside-down?"
 description: "The weird way to take photos?"
 category: articles
 tags: [iphone, apple, photos, pictures, camera]
-author: "Jiri Zoth"
-comments: true
-twitter: true
-twitteraka: jzoaka
+author: jiri_zoth
 ---
 
 In this article I am elaborating on one unpleasant mystery I resolved recently.

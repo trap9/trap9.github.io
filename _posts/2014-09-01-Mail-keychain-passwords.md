@@ -4,10 +4,7 @@ title: "The Mail from time to time asks for an account password?"
 description: "Something went wrong - Keychain Access"
 category: articles
 tags: [Mail, mba, os x, troubleshooting, keychain access]
-author: "Jiri Zoth"
-comments: true
-twitter: true
-twitteraka: jzoaka
+author: jiri_zoth
 ---
 
 I didn't even noticed when it happened the first time. I just entered a password and run a download again. Actually, I do not remember when I realized there is something wrong. But I know when I started to be VERY annoyed. It was the moment I had to enter passwords to about almost all my accounts, the second time in a week. Who was the trouble maker do you ask? The MAIL royalty itself. And it was the start of my love-hate relationship.

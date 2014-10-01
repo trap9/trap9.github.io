@@ -4,10 +4,7 @@ title: "Why is Apple Watch buyer's question of March 2016?"
 description: "The weird way to take photos?"
 category: articles
 tags: [iphone, apple, photos, pictures, camera]
-author: "Jiri Zoth"
-comments: true
-twitter: true
-twitteraka: jzoaka
+author: jiri_zoth
 ---
 In this article I discuss a phenomenon of 'when to buy' and 'rational vs emotional buyer decision' applied on Apple Watch buyer's decision process.
 I come to conclusion that 'rational buyers' can be at rest till March 2016 and than evaluate and decide whether to buy or not to buy Apple Watch second generation. Anything else prior that date will be pure 'emotional' buying decision.

@@ -4,10 +4,7 @@ title: "How to save a screenshot to a file?"
 description: "Yet. Another post about efficiency tip."
 category: articles
 tags: [OS X, apple, screen shot, trouble shooting]
-author: "Jiri Zoth"
-comments: true
-twitter: true
-twitteraka: jzoaka
+author: jiri_zoth
 ---
 
 The effective way to save screenshot to a file. The file placed where you want it with a name you want.

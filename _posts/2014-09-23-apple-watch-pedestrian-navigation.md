@@ -4,10 +4,7 @@ title: "Apple Watch navigation for pedestrians?"
 description: "Apple presents navigation as one of key features of Apple Watch. Is it so?"
 category: articles
 tags: [iphone, apple, watch, Apple Watch, navigation]
-author: "Jiri Zoth"
-comments: true
-twitter: true
-twitteraka: jzoaka
+author: jiri_zoth
 ---
 
 Apple Watch navigation is among top advertised features[^1] on Apple's website. The feature looks sexy and very useful at first glance but is it so? There are several 'short corners' about using Apple Watch navigation. Let's review - what we can expect.

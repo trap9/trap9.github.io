@@ -4,10 +4,7 @@ title: "Rumors, no more Macbook Air 13\". Why?"
 description: "What could be reasons behind Macbook Air 13 stop?"
 category: articles
 tags: [Macbook Air, Apple, Macbook Pro, Rumors]
-author: "Jiri Zoth"
-comments: true
-twitter: true
-twitteraka: jzoaka
+author: jiri_zoth
 ---
 
 There are rumors, floating around this year over the internet, saying, that the next generation of Macbook Airs product line will feature only 12" retina display size model, while keeping the 11" model mobility(aka dimensions and weight) and computing power of 13" model[^1][^2]. Well, if the rumors are correct then it looks like 'everybody wins' situation. But is it a win for everybody, so?

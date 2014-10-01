@@ -4,10 +4,7 @@ title: "Did I just have bad luck with Apple the last two years?"
 description: "iPhone4 iPhone5 Macbook Air?"
 category: articles
 tags: [iphone, mba, apple]
-author: "Jiri Zoth"
-comments: true
-twitter: true
-twitteraka: jzoaka
+author: jiri_zoth
 ---
 
 It will be four years since I have started with the Apple iphones and Macbook Airs. There are positive as well as negative experiences. Despite I am experiencing daily satisfaction with the Apple products that I have, looking back, I have realized that I had a lot of bad experiences too. More then I want to bear. Hence I drafted my own buying recommendation:

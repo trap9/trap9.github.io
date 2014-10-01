@@ -4,10 +4,7 @@ title: "Apple pushes 4\" display to a niche."
 description: "Apple abandons people who prefer 4\" display."
 category: articles
 tags: [iphone, apple, iphone6]
-author: "Jiri Zoth"
-comments: true
-twitter: true
-twitteraka: jzoaka
+author: jiri_zoth
 ---
 
 Apple has introduced iPhone 6 generation of its iPhone product line. The news is that iPhones just got BIGGER. Hallelujah cries a mainstream and people are stacking into lines. Not me, I am just contemplating about where my grieve for a 4" display comes from.

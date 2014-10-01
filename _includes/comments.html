@@ -1,4 +1,10 @@
-{% if page.comments %}
+{% if page.comments != nil %}
+{% assign publish = page.comments %}
+{% else %}
+{% assign publish = site.data.post.defaults.comments %}
+{% endif %}
+
+{% if publish %}
   <!-- Add Disqus comments. -->
   <div id="disqus_thread"></div>
   <script type="text/javascript">

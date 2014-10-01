@@ -49,17 +49,12 @@ Hates
 * people of a kind, which is so cliché I am not gonna name it.
 * exercises of any kind
 
-<p class="message">
-  Glad you are here at this blog.
-  Please, leave comments to give me an opportunity - to say a thank you :-)
-</p>
+### My articles
 
+{% for post in site.posts %}
+{% if post.author == 'jiri_zoth' %}
+&raquo; [ {{ post.title }} ]({{ post.url }}) {{ post.date | date_to_string }}
+{% endif %}
+{% endfor %}
 
-------
-Credits for this site goes:
-
-* to authors named above.
-* to authors of [Jekyll](http://jekyllrb.com)
-* to GitHub for hosting pages for free on [GitHub Pages](https://pages.github.com)
-* AND to Mark Otto the Author of Poole and its theme [Lanyon](http://lanyon.getpoole.com)
-
+---

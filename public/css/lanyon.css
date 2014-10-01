@@ -551,3 +551,15 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+.footer {
+ width:80%;
+  margin: 0 auto;
+ font-size: small;
+ text-align: center;
+}
+
+.footer-social {
+  margin: 0 auto;
+  font-size: medium;
+}

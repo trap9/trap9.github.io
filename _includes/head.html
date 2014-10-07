@@ -26,7 +26,8 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-
+<!-- Look the author details up from the site config. -->
+{% assign author = site.data.authors[page.author] %}
       {% if author.google_plus %}
         <!-- Link to the authors Google page. -->
         <link rel="author" href="{{ author.google_plus }}?rel=author" />

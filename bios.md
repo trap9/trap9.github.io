@@ -7,14 +7,15 @@ title: Bio(s)
   Please, leave comments - give me an opportunity to say a thank you :-)
 </p>
 
-
-### <a name="jiri_zoth"></a>Jiri Zoth
-
+<div>
+ <a name="jiri_zoth"></a><h3 class="bio-icon-left">Jiri Zoth</h3>
+ <a class="bio-icon-right" href="http://linkedin.com{{ site.data.authors.jiri_zoth.linkedin }}">{% include svg-icons/linkedin.html %} </a>
+</div>
 *an enthusiastic ethic liberal subconsciously  roaming over fields of responsibility inflected by society compulsion.*
 
 *Don't get it? Neither do I.*
 
-![photo](/assets/photo2.png)
+![photo](/assets/img/jiri_zoth.png)
 
 In more elaborative (aka boring) description of myself:
 

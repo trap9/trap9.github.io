@@ -2,12 +2,18 @@
 layout: post
 title: "DURR Beta - a shivering bracelet revealed"
 description: "A review of DURR bracelet / watch"
-category: articles
+category: 'articles'
 tags: [Durr, shivering bracelet]
-author: jiri_zoth
+author: 'jiri_zoth'
+suggested_tweet:
+  via:                  'trap9io'
+  text:                 'Durr pro and cons'
+  hashtags:             ['Durr', 'review']
+  related:              ['zothaka', 'trap9io']
 ---
 
 This article is all about one man's journey into his perception of time and about the companion that mediates the unique experience - DURR. DURR is made by Norway's designer team called skreksto. It is a bracelet hat vibrates every fifth minute. !Note the word *bracelet* because thinking about Durr as a *watch* will lead you to expectations that will not be met. I will touch 'watch' misconception later in this article.
+
 ![DURR detail](/assets/2014/durr/1-DURR-detail.JPG)
 *What is your perception of time?*
 
@@ -112,5 +118,4 @@ Push button deep inside Durr aluminium top and keep it pushed inside while pulli
 
 ![DURR detail](/assets/2014/durr/8-DURR-base-strap.JPG)
 
-----
 [^1]: [Durr beta website](http://skreksto.re/products/durr)

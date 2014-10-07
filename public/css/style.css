@@ -1,0 +1,158 @@
+/*
+
+//
+// VARIABLES
+//
+
+Colors
+$blue: #4183C4;
+
+ Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+ Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+
+*/
+
+.wrapper-footer {
+  margin-top: 50px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: #75b5aa;
+  color: darkgreen;
+}
+.wrapper-footer .footer a {
+color: darkgreen;
+}
+
+.footer {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.author-strip-wrapper {
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: -50px;
+  border-top: 1px solid #ddd;
+  border-bottom: 0px solid #ddd;
+  background-color: #eee;
+  //color: $darkGray;
+  font-size: medium;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.author-strip-content {
+  width: 80%;
+  margin: 0 auto;
+  //margin-bottom: -50px;
+  border-top: 0px solid #ddd;
+  border-bottom: 0px solid #ddd;
+  //background-color: lightGray;
+  //color: $darkGray;
+  //font-size: medium;
+  //display: inline;
+}
+.vertical {
+ height: 100%;
+}
+
+.author-strip-content a {
+ color: #75b5aa;
+}
+
+a.icon-left {
+color: #3498db;
+font-weight: 600;
+text-decoration: none;
+vertical-align:middle;
+}
+
+.twitter-icon {
+height: 25px;
+display:inline;
+margin: -3px 5px 0 0;
+vertical-align: middle;
+}
+
+.secondary-photo-strip {
+  border-radius: 50%;
+  margin: 0 0 0 1.5rem;
+float: right;
+width: 100px;
+vertical-align: middle;
+border:0
+}
+
+.footnotes {
+  padding-top:20px;
+  font-size: smaller;
+  line-height: 1.1;
+  border-bottom: 1px solid;
+}
+
+.footnotes p {
+  margin-bottom: 0;
+}
+
+#disqus_thread {
+  margin-top: 90px;
+}
+
+.bio-icon-right svg {
+  vertical-align: bottom;
+  margin-left: 5px;
+  width: 25px;
+}
+.bio-icon-left {
+display: inline;
+}
+.entry-meta-suggested-tweet{margin-bottom:1px;margin-bottom:0rem}
+.suggested-tweet-bubble{display:inline-block;position:relative;padding:16px 16px 18px;padding:1rem 1rem 1.125rem;border-radius:16px;border-radius:1rem;background:#f6f6f6;
+  margin-bottom: 1rem;
+}
+.suggested-tweet-bubble:hover{background:#eee}
+.suggested-tweet-bubble:hover:after{border-color:#eee transparent}
+.suggested-tweet-bubble:focus{color:#fff;background:#2ecc71}
+.suggested-tweet-bubble:focus:after{border-color:#2ecc71 transparent}
+.suggested-tweet-bubble:after{content:"";position:absolute;bottom:-18px;left:62px;z-index:2;border-width:20px 20px 0;border-style:solid;border-color:#f6f6f6 transparent}
+.suggested-tweet-text{color:#506675}
+.suggested-tweet-text:hover{color:#374751}
+.entry-meta-suggested-tweet .suggested-tweet-link a {
+  margin-left:16px;
+  margin-left:1rem;
+  color: #3498db;
+  font-weight: lighter;
+}
+
+.post-navigation,.paging-navigation{padding-top:1px;padding-top:0rem}
+.post-navigation{border-top:2px solid #dcdcdc}
+.nav-previous{float:left}
+.nav-previous-link:before{content:"\2190";margin-right:4px;margin-right:.25rem}
+.nav-next{float:right}
+.nav-next-link:after{content:"\2192";margin-left:4px;margin-left:.25rem}
+.post{margin:66px 0 48px;margin:4.1rem 0 3rem}
+.post:first-child{margin-top:0}
+.entry-meta-header,.entry-meta-footer-bottom{color:#9f9f9f}
+.entry-meta-header a:link,.entry-meta-header a:visited,.entry-meta-footer-bottom a:link,.entry-meta-footer-bottom a:visited{color:inherit}
+.entry-meta-header a:hover,.entry-meta-footer-bottom a:hover{color:gray}
+.entry-meta-header a:focus,.entry-meta-header a:active,.entry-meta-footer-bottom a:focus,.entry-meta-footer-bottom a:active{color:#2ecc71}
+.entry-meta-header{margin-bottom:11px;margin-bottom:.7rem;font-weight:600}
+.entry-meta-icon{margin-left:8px;margin-left:.5rem}
+.entry-meta-icon:first-child{margin-left:0}
+.entry-meta-icon:before{color:#bdbdbd}
+.entry-meta-icon:hover:before{color:#9f9f9f}
+.entry-meta-link:link,.entry-meta-link:visited{color:#9f9f9f}
+.entry-meta-link:hover{color:gray}
+.entry-meta-link:focus,.entry-meta-link:active{color:#2ecc71}
+.entry-content{overflow:hidden;margin-bottom:48px;margin-bottom:3rem}
+
+

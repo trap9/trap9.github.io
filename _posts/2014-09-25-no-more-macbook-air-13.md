@@ -41,7 +41,6 @@ So, the plausible decision would be to steer Macbook Air line towards mobility (
 
 It just make me nervous, I am used to buy 13" Macbook Airs that have better mobility, similar specs and better price comparing to entry 13" Macbook Pros, which is my niche, rumored to vanish :-(
 
-----
 [^1]: [rumor example](http://appleinsider.com/articles/14/09/11/rumor-apple-to-launch-12-inch-macbook-air-in-2015-with-iphone-inspired-colors)
 [^2]: [rumor example](http://9to5mac.com/2014/03/21/rumor-12-inch-retina-macbook-air-updates-coming-soon-without-fan-or-mechanical-trackpad-button/)
 [^3]: [article comparing 13" Macbook Pro vs Air](http://www.gizmag.com/2014-macbook-air-vs-retina-macbook-pro/31842/)

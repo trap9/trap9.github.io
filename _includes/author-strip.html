@@ -1,0 +1,22 @@
+
+{% assign author = site.data.authors[page.author] %} {% if author %}
+
+<aside class="author-strip-wrapper">
+  <div class="author-strip-content">
+    <div class="vertical">
+    <img alt="A photo of {{ author.name }}" class="secondary-photo-strip" src="/assets/img/{{ page.author }}.png">
+  </div>
+    <div>
+    <p>
+        Hi, I’m <strong>{{ author.name }}</strong> and I’m <strong>{{ author.role }}</strong>. Learn more <a href="/bios/#{{ page.author }}">about me</a>.
+      </p>
+      <p>
+        Have a look around and please don’t hesitate to <a href="mailto:{{ author.email }}" class="email">contact me</a> with any comments, questions, or just to say hello!
+</p>
+<a class="icon-left" href="https://twitter.com/intent/user?screen_name={{ author.twitter }}" title="Follow @{{ author.twitter }} on Twitter"><img src="/assets/img/twitter_logo_blue.png" class="twitter-icon">Follow me on Twitter</a>
+      </div>
+    </div>
+    </aside>
+
+{% endif %}
+

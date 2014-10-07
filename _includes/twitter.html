@@ -6,11 +6,41 @@
 
 {% if publish %}
   <!-- Add twitter hook. -->
-If you liked this post, you can
-<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via={{page.twitteraka}}"
-   target="_blank">
-  share it with your followers</a>
-or
-<a href="https://twitter.com/{{page.twitteraka}}">
-  follow me on Twitter</a>!
-{%endif%}
+{% assign twitteraka = site.data.authors[page.author].twitteraka %}
+{% assign hashtags = page.tags %}
+{% assign hashtags_str = "" %}
+{% assign text = page.title %}
+{% assign via = twitteraka %}
+{% assign related = twitteraka %}
+
+{% if page.suggested_tweet %}
+
+{% if page.suggested_tweet.hashtags != empty %}
+{% assign hashtags = page.suggested_tweet.hashtags %}
+{% endif %}
+
+{% if page.suggested_tweet.text %} {% assign text = page.suggested_tweet.text %} {% endif %}
+{% if page.suggested_tweet.related %} {% assign related = page.suggested_tweet.related %} {% endif %}
+{% if page.suggested_tweet.via %} {% assign via = page.suggested_tweet.via %} {% endif %}
+
+{% endif %}
+
+<footer class="entry-meta entry-meta-footer">
+        <div class="entry-meta-suggested-tweet">
+          <h3 class="suggested-tweet-title">Spread the Word</h3>
+
+          <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ text }}&via={{via}}&hashtags={{ hashtags | join: "%2C" }}&related={{ related }}" class="suggested-tweet-bubble" target="_blank">
+            <span class="suggested-tweet-text">{{ text }} </span>
+              {% for hashtag in hashtags %}
+                <span class="suggested-tweet-hashtag">#{{ hashtag }}</span>
+              {% endfor %}
+          </a>
+        <p class="suggested-tweet-link">
+          <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ text }}&via={{via}}&hashtags={{ hashtags | join: "%2C" }}&related={{ related }}" class="icon-left" target="_blank"><img src="/assets/img/twitter_logo_blue.png" class="twitter-icon">Click to Tweet</a>
+
+          <small>(you may edit before posting.)</small></p>
+ </div>
+</footer>
+
+
+ {% endif %}

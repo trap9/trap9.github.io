@@ -56,8 +56,17 @@
     }());
   </script>
 
+  {% if page.author %}
+  {% include author-strip.html %}
+  {% endif %}
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+        {% include svg-icons.html %}
 {% capture footer %}{% include footer.md %}{% endcapture %}
 {{ footer }}
-
+        </footer>
+      </div>
+    </div>
   </body>
 </html>

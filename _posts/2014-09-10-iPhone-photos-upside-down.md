@@ -8,40 +8,40 @@ author: jiri_zoth
 ---
 
 In this article I am elaborating on one unpleasant mystery I resolved recently.
-Last years, I was repeatedly receiving complaints from my wife and other family members that I keep sending them pictures upside down and they find difficult and annoying to fix photos rotation. The situation became critical last week when I was shooting my daughter first day ever in a school. I received ONLY COMPLAINTS from my family that all my photos are upside down. So, I finally stopped ignoring the fact and googled the internet for an answer.
-The answer is that I AM NOT FOLLOWING APPLE WAY OF TAKING photos in landscape :-(
-![Apple way of taking photos - trigger button down](/assets/2014/camera-down.JPG)
-:-)) Is the camera in a correct position on the picture?
+Last years, I was repeatedly receiving complaints from my wife and other family members that I keep sending them pictures upside down, and they find it difficult and annoying to fix the rotation of the photos. The situation became critical last week when I was taking pictures of my daughter's first day at school. I received ONLY COMPLAINTS from my family that all my photos were upside-down. So, I finally stopped ignoring the fact and googled the internet for an answer.
+The answer is that I AM NOT FOLLOWING THE APPLE WAY OF TAKING photos in landscape :-(
+![The Apple way of taking photos - trigger button down](/assets/2014/camera-down.JPG)
+:-)) Is the camera in the correct position in the picture?
 
 ### Who is a trouble maker?
-October 2012 Apple released iOS 5 which has introduced feature to take photos by pressing volume up button[^1][^2]. Which is a great feature for a small cost. I started using the volume up as a trigger immediately. It is so compatible with traditional cameras!
+October 2012 Apple released iOS 5, which has introduced a feature that takes photos by pressing the 'volume up' button[^1][^2]. Which is a tiny feature with a great benefit in user experience. I started using the volume up as a trigger immediately. It is so compatible with traditional cameras!
 
-Ughhh ... may be it is not!!!
+Ughhh ... maybe it is not!!!
 
-### The traditional, user friendly orientation of a camera - not according to Apple
-![traditional way of taking photos - trigger button up](/assets/2014/camera-up.JPG)
+### Buttons up - the traditional, user-friendly orientation of a camera - not according to Apple's view
+![traditional way of taking photos -has the trigger button up](/assets/2014/camera-up.JPG)
 
-Notice the trigger button is up :-) picture is upside-down :-((
+Notice the trigger button is up :-) but the picture is upside-down :-((
 
-### Hold on - Apple way of taking landscape pictures :-(
-![Apple way of taking photos - trigger button down](/assets/2014/camera-down.JPG)
+### Hold on - the Apple way of taking landscape pictures :-(
+![The Apple way of taking photos - the trigger button is down](/assets/2014/camera-down.JPG)
 
-Notice the trigger button is down :-( - pictures will be upside up.
+Notice the trigger button is down :-( - pictures will be upside-up.
 
 
-## Why are pictures upside down in this blog post?
+## Why are pictures upsid- down in this blog post?
 
 THE PHOTOS ARE TAKEN BY iPhone 5 WITH VOLUME UP BUTTON - UP.
-I am letting you feel how everybody feels when he/she receives the photos.
+I am letting you feel how everybody feels when they receive the photos.
 
-## What Apple is doing about this?
+## What is Apple doing about this?
 
-The issue is numerously, continuously and for a long-period reported[^3][^4] and nothing from Apple about it.
-Perhaps Apple feels elated over ordinary apple users and their troubles.
+The issue has been continuously reported numerous times over a long-period reported[^3][^4] and nothing from Apple about it.
+Perhaps Apple feels elated over ordinary Apple users and their troubles.
 
-There are several pseudo arguments trying to advocate situation when Apple is  doing nothing about the issue. (shooting speed, ergonomic, technical constraints, ability taking pictures upside down) I find myself none of the arguments solid enough to justify my issue - I AM HAVING TROUBLES WITH SHARING PHOTOS BECAUSE APPLE IS DOING NOTHING ABOUT IT.
+There are several pseudo-arguments trying to defend Apple for doing nothing about the issue (shooting speed, ergonomics, technical constraints, ability to take pictures upside-down). I find none of these arguments solid enough to justify my issue - I AM HAVING TROUBLE SHARING PHOTOS BECAUSE APPLE IS DOING NOTHING ABOUT IT.
 
-The only what matters is that despite Apple wants my money Apple is ignoring my (and others) issue.
+The only thing that matters is that, despite Apple wanting my money, Apple is ignoring the issue of myself and many others.
 
 ------
 [^1]: [cnet article](http://www.cnet.com/how-to/why-does-my-iphone-take-upside-down-photos/)

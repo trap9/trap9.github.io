@@ -11,13 +11,13 @@ title: Bio(s)
  <a name="jiri_zoth"></a><h3 class="bio-icon-left">Jiri Zoth</h3>
  <a class="bio-icon-right" href="http://linkedin.com{{ site.data.authors.jiri_zoth.linkedin }}">{% include svg-icons/linkedin.html %} </a>
 </div>
-*an enthusiastic ethic liberal subconsciously  roaming over fields of responsibility inflected by society compulsion.*
+*an enthusiastic ethical liberal subconsciously  roaming over fields of responsibility inflected by society's compulsion.*
 
 *Don't get it? Neither do I.*
 
 ![photo](/assets/img/jiri_zoth.png)
 
-In more elaborative (aka boring) description of myself:
+A more elaborative (aka boring) description of myself:
 
 * An entrepreneur - software, computer vision, electronics, augmented reality, immersion computing,
 * husband,
@@ -26,7 +26,7 @@ In more elaborative (aka boring) description of myself:
 
 ... and some ex, which some becoming manifested again :-)
 
-* A runner, windsurfer, snowboarder, mountain hiker, floor&volley&basketball player, karate,
+* A runner, windsurfer, snowboarder, mountain hiker, floor-,volley-,basketball player, student of karate,
 * idealist,
 * analyst, manager, programmer,
 * chess&go player, mathematician and physicist.
@@ -36,9 +36,9 @@ Likes
 * programming - issue cracking
 * electronics
 * math and physics
-* vine, whisky and rum
+* wine, whisky and rum
 * books, movies
-* people of such kind
+* similar people
 * family
 * running
 
@@ -46,8 +46,8 @@ Hates
 
 * repetition of any kind
 * imperfection
-* wake up
-* people of a kind, which is so cliché I am not gonna name it.
+* waking up
+* people of a style, which is so cliché I am not gonna name it.
 * exercises of any kind
 
 ### My articles

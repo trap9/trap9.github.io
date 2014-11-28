@@ -12,7 +12,7 @@ suggested_tweet:
   related:              ['zothaka', 'trap9io']
 ---
 
-This article is all about one man's journey into his perception of time and about the companion that mediates the unique experience - DURR. DURR is made by Norway's designer team called skreksto. It is a bracelet hat vibrates every fifth minute. !Note the word *bracelet* because thinking about Durr as a *watch* will lead you to expectations that will not be met. I will touch 'watch' misconception later in this article.
+This article is all about one man's journey into his perception of time and about the companion that mediates the unique experience - DURR. DURR is made by a Norwegian team of designers called Skreksto. It is a bracelet that vibrates every five minutes. Note the word 'bracelet' because thinking about Durr as a *watch* will lead you to expectations that will not be met. I will touch the 'watch' misconception later in this article.
 ![DURR detail](/assets/2014/durr/1-DURR-detail.JPG)
 *What is your perception of time?*
 
@@ -20,99 +20,99 @@ This article is all about one man's journey into his perception of time and abou
 
 Durr Beta[^1] is a bracelet that happened to have electronics inside.
 
-If you are a fan boy/girl with budget $100 < $200 to spend on toys which you will eventually abandon sooner or later, just buy it - the attention and experience is worth of the money.
+If you are a fan boy/girl with a budget of $100 - $200 to spend on toys that you will eventually abandon sooner or later, just buy it - the attention and experience is worth the money.
 
-*I am repeatedly suprised what it can be a difference between every single 5 minutes I spent.*
+*I was repeatedly suprised at differences of subjective length of 5 minutes which I experienced.*
 
-But if you are more money spending cautious person - think twice. The **Durr** is **not Water resistant** and under certain circumstances **looses power** and becomes unreliable.
+But if you are a more cautious person with your money - think twice. The **Durr** is **not water-resistant** and, under certain circumstances, **loses power** and becomes unreliable.
 
 ### Price tag
-The price is 105 EUR. But it is located in Norway, shipping fee required - 5 UER standard or 45 EUR Fedex (thats a huge difference ?!), if you are from EU then you need to add VAT and customs fees.
+The price is 105 EUR. But it is located in Norway, so a shipping fee is required - 5 EUR standard, or 45 EUR Fedex (that's a huge difference ?!). If you are from the EU, then you need to add VAT and customs fees.
 
-Overall, the total price can vary between 120 - 200 EUR.
+Overall, the total price can vary between 120 and 200 EUR.
 
-Which is not cheap product at all. One can buy decent stylish watches for this price range or jewellery bracelet.
+Which is not a cheap product at all. You can buy decent stylish watches or jewellery bracelet in this price range.
 
 ### Durr purchase - tricky part - an easy misconception
 ![DURR detail](/assets/2014/durr/2-DURR-all.JPG)
 *Durr beta unboxed - after three days of usage*
 
-I admit, I bought Durr very VERY impulsively. At the beginning of September I have realized that my waiting for a new gadget to play with will not be answered (I really do not understand people who are switching from iPhone5 or Macbooks Airs after 2011). I was - nervous and lost.
+I admit, I bought Durr very VERY impulsively. At the beginning of September I realized that my wait for a new gadget to play with would not be answered (I really do not understand people who are switching from iPhone5 or Macbook Air after 2011). I was nervous and lost.
 
-Then an email arrived in my inbox - Durr beta is in sale - I bought it in couple minutes. I liked the idea, the pictures were great. I swallowed the price and sky high shipping fee.
+Then an email arrived in my inbox - Durr beta is available - I bought it in a couple of minutes. I liked the idea, the pictures were great. I swallowed the price and the sky high shipping fee.
 
-Well, I did not analyzed all the texts on Durr page. Believe me, the text are attorney quality optimized.
+Well, I did not analyze all the texts on Durr page. Believe me, the texts are attorney quality optimized.
 
 ### Durr arrived - misconception revealed
 
 One day, my Durr was delivered.
 
-*Esentially, I got this.*
+*Essentially, I got this.*
 ![DURR detail](/assets/2014/durr/3-DURR-on.JPG)
 
 ### Issue #1 - water resistance
-You can imagine my unpleasant supprise - it was written right on the box - with BIG LETTERS - NO ONE COULD MISS - INCLUDING ME.  What I easily missed on Durr website, I did not missed on the BOX.
+You can imagine my unpleasant supprise - it was written right on the box - with BIG LETTERS THAT NO ONE COULD MISS - INCLUDING ME.  What I easily missed on Durr website, I did not miss on the BOX.
 
-Durr Beta - is not a water resistant. There is no warranty when walking in the rain or washing hands!
+Durr Beta is not water resistant! There is no warranty when walking in the rain or washing hands!
 
-### Couple notes on Skreksto behavior
+### A couple of notes on Skreksto's behavior
 
-So, I asked Skreksto to confirm (and put under warranty) that it is water resistant to a degree I can use it all day long including washing hands and walking in the rain.
+So, I asked Skreksto to confirm (and put under warranty) if it is water resistant to a degree and that I can use it all day long, including washing hands and walking in the rain.
 
 The answer was no.
 
-I send them a VERY angry email - stating that I feel cheated by their DURR presentation as a product to be wearied on wrist all the day long accompanying me during all kind of activities.
-Obviously for such type of product I expect a warranty of at least basic water resistance.
+I sent them a VERY angry email - stating that I felt cheated by their DURR presentation as a product to be worn on the wrist for the whole day accompanying me during all kinds of activities.
+Obviously for such a product I expect a warranty of at least basic water resistance.
 
-Comparing to watches standards Durr is far below any expectations.
+Compared to standard watches, Durr is far below any expectations.
 
-I received a reply from Skreksto which I never received before - cynical answer about my expectations on one hand and attorney level reference to a tiny sentence at the bottom of Durr webpage.
+I received a reply from Skreksto which I never received before - a cynical answer about my expectations on one hand, and attorney-level reference to a tiny sentence at the bottom of Durr's webpage.
 
-We had another exchange of email communication and situation settled on following:
+We had another exchange of email communication, and situation settled on the following:
 
-* Durr authors perceive Durr as a jewellery bracelet, not a kind of electronics even watches - application of wrist electronics devices standards is not appropriate.
-* Durr authors are pretty confident that Durr can handle gentle splashes like rain or hand washing but they do not offer warranty to avoid claims.
-* Durr authors do not find any misleading communication on their website.
+* Durr's creators perceive Durr as a jewellery bracelet, rather than an electronics item od even a watch. The application of standard wearables specifications is not appropriate.
+* Durr's authors are pretty confident that Durr can handle gentle splashes like rain or hand-washing, but they do not offer warranty to avoid claims.
+* Durr's authors do not find any misleading communication on their website.
 
-Mentally, I accepted situation that I might (soon) loose Durr because of a water splash.
+Mentally, I accepted the fact that I might (soon) lose my Durr because of a splash of water.
 
-I was wearing Durr for three days and I was intrigued.
+I wore the Durr for three days and I was intrigued.
 
-Until Sunday afternoon that I got caught by rain ...
+Until Sunday afternoon - then I got caught by rain ...
 
 ### Bend test - issue #2
-Later that Sunday I noticed suspicious Durr behaviour - the vibration changed.
-The vibration interval started to be unpredictable.
+Later that Sunday I noticed my Durr behaving suspiciously - the vibration changed.
+The interval between vibrations started to be unpredictable.
 
-Since I spotted this change I was sure it is because of the rain. Water leaked inside and is causing troubles.
+When I spotted this change I was sure it was because of the rain. Water leaked inside and was causing problems.
 
-But soon, I also noticed that when I bend my hand Durr gets distorted.
+But soon, I also noticed that when I bent my hand, the Durr became distorted.
 
-*Checkout Durr distortion between aluminium top and plastic body - strap fixation becomes visible.*
+*Checkout out the distortion in the Durr between its aluminium top and the plastic body - strap fixation becomes visible.*
 ![DURR detail](/assets/2014/durr/4-DURR-bend.JPG)
 
 ### Durr - disassembly
 
 At home, I decided to dismantle Durr make it dry and try it again.
 
-What was my surprise after I disassembled Durr - there was no water.
+But a surprise awaited me after I disassembled Durr - there was no water.
 
-Well with no water inside - what it could be - and I got an idea.
+Well with no water inside - what it could be? An idea came to me.
 
-When I bent my wrist, Durr gets distorted, battery looses contact, charge drops and electronics stops working correctly even if the battery gains contact again.
+It occured to me that when I bent my wrist, the Durr got distorted, the battery lost contact, the charge drops and the electronics stop working correctly even if the battery gains contact again.
 
 ![DURR detail](/assets/2014/durr/5-DURR-chases-battery.JPG)
 
-*Battery contacts, under DURR name, are too narrow - bending them helps to keep battery contact for a while - till they get narrow again.*
+*The battery contacts, under the DURR name, are too narrow - bending them helps to keep battery contact for a while - until they get narrow again.*
 ![DURR detail](/assets/2014/durr/6-DURR-chases.JPG)
 
-### Mae culpa - tricky point disassembling Durr
+### Mea culpa - tricky point disassembling Durr
 
-BEWARE TO BROKE DURR BUTTON!
+BEWARE OF BREAKING THE DURR BUTTON!
 
-Push button deep inside Durr aluminium top and keep it pushed inside while pulling the plastics body out of aluminium top.
+Push the button deep inside the Durr's aluminium top and keep it pushed inside while pulling the plastic body out of the aluminium top.
 
-*The button is actualy part of plastics body. So, if not pushed inside enough, it will ireversibly broke.*
+*The button is actually part of the plastic body. So, if it is not pushed inside enough, it will break ireversibly.*
 ![DURR detail](/assets/2014/durr/7-DURR-base-detail.JPG)
 
 ![DURR detail](/assets/2014/durr/8-DURR-base-strap.JPG)
